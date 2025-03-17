@@ -2,3 +2,7 @@ esse arquivo contém comandos secundários de git
 
 
 1. Arquivo alterado
+
+
+# Comandos mais genéricos
+- Comandos estranhos
