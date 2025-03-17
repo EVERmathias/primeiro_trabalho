@@ -1,0 +1,3 @@
+Este é um arquivo 02
+
+Mais uma linha no arquivo 02
